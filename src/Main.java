@@ -4,5 +4,6 @@ public class Main {
         System.out.println("update");
         System.out.println("Corn");
         System.out.println("BREAD");
+        System.out.println("BEAN");
     }
 }
